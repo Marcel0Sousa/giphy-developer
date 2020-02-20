@@ -5,7 +5,12 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MaterialApp(
     home: HomePage(),
-    theme: ThemeData(primaryColor: Colors.white),
-    debugShowCheckedModeBanner: false,
+    theme: ThemeData(
+        hintColor: Colors.amber,
+        primaryColor: Colors.white,
+        inputDecorationTheme: InputDecorationTheme(
+            enabledBorder: OutlineInputBorder(
+                borderSide: BorderSide(color: Colors.amber)))),
+    debugShowCheckedModeBanner: true,
   ));
 }
