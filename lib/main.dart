@@ -7,10 +7,10 @@ void main() {
     home: HomePage(),
     theme: ThemeData(
         hintColor: Colors.amber,
-        primaryColor: Colors.white,
+        primaryColor: Colors.amber,
         inputDecorationTheme: InputDecorationTheme(
             enabledBorder: OutlineInputBorder(
                 borderSide: BorderSide(color: Colors.amber)))),
-    debugShowCheckedModeBanner: true,
+    debugShowCheckedModeBanner: false,
   ));
 }
