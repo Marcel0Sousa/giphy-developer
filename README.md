@@ -2,6 +2,15 @@
 
 A new Flutter application.
 
+## Screenshot
+<p align="centre">
+<img src="https://i.imgur.com/wccsVFH.png" alt="Script">
+</p>
+<p align="centre">
+<img src="https://i.imgur.com/2VndJs8.png" alt="Script">
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
