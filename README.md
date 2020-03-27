@@ -1,13 +1,13 @@
-# gif finder
-
-A new Flutter application.
+# Description
+APP developed in flutter that uses an API Rest publishes to search for gif images on the [Giphy](https://giphy.com/) website.
+- [API documentation Giphy Developers](https://developers.giphy.com/docs/api)
 
 ## Screenshot
 <p align="centre">
 <img src="https://i.imgur.com/wccsVFH.png" alt="Script">
 </p>
 <p align="centre">
-<img src="https://i.imgur.com/2VndJs8.png" alt="Script">
+<img src="https://i.imgur.com/TCguvHE.png" alt="Script">
 </p>
 
 
